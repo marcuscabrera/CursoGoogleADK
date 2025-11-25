@@ -33,7 +33,7 @@ Este treinamento capacita profissionais a desenvolver agentes inteligentes utili
 
 ## 🎯 PRINCIPAIS TÓPICOS ABORDADOS {#principais-tópicos}
 
-### **MÓDULO 1: Introdução ao Google ADK e Agentes de IA**
+### **MÓDULO 1: Introdução ao Google ADK e Agentes de IA** 
 **Duração:** 3-4 horas
 
 #### Conteúdo:
