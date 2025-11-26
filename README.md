@@ -20,3 +20,5 @@ Este repositório contém um treinamento completo sobre desenvolvimento de agent
 - Cronograma sugerido em diferentes formatos (intensivo, regular, autoguiado)
 
 O material apresenta tanto os aspectos teóricos quanto práticos do desenvolvimento com Google ADK, abordando desde a criação de agentes simples até sistemas multiagente complexos com memória persistente, ferramentas personalizadas e preparados para ambiente de produção.
+
+Acesse o material em https://github.com/marcuscabrera/CursoGoogleADK/wiki
