@@ -82,7 +82,7 @@
 
 * * *
 
-## 📘 RESUMO EXECUTIVO {#resumo-executivo}
+## 📘 RESUMO EXECUTIVO
 
 Este treinamento capacita profissionais a desenvolver agentes inteligentes utilizando o **Google Agent Development Kit (ADK)** integrado ao modelo **Gemini 3 Pro**. O curso abrange desde conceitos fundamentais até implementações avançadas de sistemas multiagente.
 
@@ -105,7 +105,7 @@ Este treinamento capacita profissionais a desenvolver agentes inteligentes utili
 
 * * *
 
-## 🎯 PRINCIPAIS TÓPICOS ABORDADOS {#principais-tópicos}
+## 🎯 PRINCIPAIS TÓPICOS ABORDADOS
 
 ### **MÓDULO 1: Introdução ao Google ADK e Agentes de IA**
 
@@ -470,7 +470,7 @@ Passos principais:
 
 * * *
 
-## 💡 EXEMPLOS PRÁTICOS {#exemplos-práticos}
+## 💡 EXEMPLOS PRÁTICOS
 
 ### **Exemplo 1: Agente de Atendimento ao Cliente**
 
@@ -537,7 +537,7 @@ print(response.content)
 
 ```
 
-⧉ Copied!
+
 
 **Saída esperada:**
 
@@ -548,7 +548,7 @@ e a previsão de entrega é 30/11/2025. Posso ajudar com algo mais?
 
 ```
 
-⧉ Copied!
+
 
 * * *
 
@@ -617,7 +617,7 @@ print(result.final_output)
 
 ```
 
-⧉ Copied!
+
 
 * * *
 
@@ -670,7 +670,7 @@ response = personal_assistant.run("Que café eu gosto?")
 
 ```
 
-⧉ Copied!
+
 
 * * *
 
@@ -729,11 +729,11 @@ print(f"Confiança: {result.confidence_score}")
 
 ```
 
-⧉ Copied!
+
 
 * * *
 
-## 📝 EXERCÍCIOS E ATIVIDADES {#exercícios}
+## 📝 EXERCÍCIOS E ATIVIDADES
 
 ### **EXERCÍCIO 1: Primeiro Agente (Módulo 3)**
 
@@ -861,7 +861,7 @@ Reviews = [
 
 ```
 
-⧉ Copied!
+
 
 **Avaliação:**
 
@@ -1001,7 +1001,7 @@ print(response)  # Problema 3
 
 ```
 
-⧉ Copied!
+
 
 **Problemas a identificar:**
 
@@ -1029,7 +1029,7 @@ Corrija o código e adicione:
 
 * * *
 
-## 📚 GLOSSÁRIO TÉCNICO {#glossário}
+## 📚 GLOSSÁRIO TÉCNICO
 
 **A**
 
@@ -1255,7 +1255,7 @@ Sequência automatizada de tarefas ou processos executados por agentes.
 
 * * *
 
-## ❓ PERGUNTAS FREQUENTES (FAQ) {#faq}
+## ❓ PERGUNTAS FREQUENTES (FAQ)
 
 ### **Sobre o Google ADK**
 
@@ -1547,7 +1547,7 @@ Sequência automatizada de tarefas ou processos executados por agentes.
 
 * * *
 
-## 🔗 RECURSOS ADICIONAIS {#recursos}
+## 🔗 RECURSOS ADICIONAIS
 
 ### **Documentação Oficial**
 
