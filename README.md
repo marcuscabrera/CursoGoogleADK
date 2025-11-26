@@ -3016,24 +3016,13 @@ Após concluir este treinamento, você estará pronto para:
 
   
 
-## 📞 SUPORTE E CONTATO
+## 📞 CONTATO
 
-  
 
-**Para dúvidas técnicas:**
+email: marcus.cabrera@gmail.com
 
-  
-
-- Consulte primeiro o FAQ e documentação
-
-- Verifique GitHub Issues do repositório
-
-- Poste em fóruns da comunidade
-
-  
 
 **Para feedback sobre este material:**
-
   
 
 - Contribuições são bem-vindas
@@ -3042,42 +3031,7 @@ Após concluir este treinamento, você estará pronto para:
 
 - Compartilhe casos de sucesso
 
-  
-
 * * *
-
-  
-
-## 📄 CERTIFICAÇÃO
-
-  
-
-Ao completar com sucesso:
-
-  
-
-- ✅ Todos os 7 módulos
-
-- ✅ Exercícios práticos
-
-- ✅ Projeto final aprovado
-
-  
-
-Você estará apto a:
-
-  
-
-- Reivindicar certificado de conclusão
-
-- Adicionar habilidades ao LinkedIn
-
-- Demonstrar expertise em AI Agent Development
-
-  
-
-* * *
-
   
 
 **Versão do Material:** 1.0
