@@ -1126,3 +1126,6 @@ Este material fornece uma base sólida para dominar o desenvolvimento de agentes
 ---
 
 *Este material foi estruturado para maximizar o aprendizado através de conteúdo progressivo, exemplos práticos e exercícios desafiadores. Use-o como referência contínua em sua jornada com agentes de IA.*
+<!--stackedit_data:
+eyJoaXN0b3J5IjpbMTU2MTg5MTg4OF19
+-->
