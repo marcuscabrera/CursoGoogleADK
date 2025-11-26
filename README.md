@@ -282,7 +282,7 @@ Este treinamento capacita profissionais a desenvolver agentes inteligentes utili
 
   
 
-### **MÓDULO 2: Ambiente e Configuração**
+### **[MÓDULO 2: Ambiente e Configuração](https://github.com/marcuscabrera/CursoGoogleADK/blob/main/M%C3%93DULO%202%20-%20Ambiente%20e%20Configura%C3%A7%C3%A3o.md)**
 
   
 
@@ -378,7 +378,7 @@ Passos principais:
 
   
 
-### **MÓDULO 3: Criando o Primeiro Agente**
+### **[MÓDULO 3: Criando o Primeiro Agente](https://github.com/marcuscabrera/CursoGoogleADK/blob/main/M%C3%93DULO%203%20-%20Criando%20o%20Primeiro%20Agente.md)**
 
   
 
