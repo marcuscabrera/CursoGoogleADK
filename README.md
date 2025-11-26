@@ -8,158 +8,7 @@
 
 * * *
 
-  
-
-- [Material Completo de Treinamento](#material-completo-de-treinamento)
-
-    - [Desenvolvendo Agentes de IA com Google ADK e Gemini 3 Pro](#desenvolvendo-agentes-de-ia-com-google-adk-e-gemini-3-pro)
-
-    - [📘 RESUMO EXECUTIVO {#resumo-executivo}](#blue_book-resumo-executivo-resumo-executivo)
-
-        - [Objetivos de Aprendizagem:](#objetivos-de-aprendizagem)
-
-        - [Carga Horária Estimada:](#carga-horária-estimada)
-
-    - [🎯 PRINCIPAIS TÓPICOS ABORDADOS {#principais-tópicos}](#dart-principais-tópicos-abordados-principais-tópicos)
-
-        - [MÓDULO 1: Introdução ao Google ADK e Agentes de IA](#módulo-1-introdução-ao-google-adk-e-agentes-de-ia)
-
-            - [Conteúdo:](#conteúdo)
-
-            - [Resultados Esperados:](#resultados-esperados)
-
-        - [MÓDULO 2: Ambiente e Configuração](#módulo-2-ambiente-e-configuração)
-
-            - [Conteúdo:](#conteúdo-2)
-
-            - [Resultados Esperados:](#resultados-esperados-2)
-
-        - [MÓDULO 3: Criando o Primeiro Agente](#módulo-3-criando-o-primeiro-agente)
-
-            - [Conteúdo:](#conteúdo-3)
-
-            - [Resultados Esperados:](#resultados-esperados-3)
-
-        - [MÓDULO 4: Modelos, Ferramentas e Plugins](#módulo-4-modelos-ferramentas-e-plugins)
-
-            - [Conteúdo:](#conteúdo-4)
-
-            - [Exemplos de Ferramentas:](#exemplos-de-ferramentas)
-
-            - [Resultados Esperados:](#resultados-esperados-4)
-
-        - [MÓDULO 5: Funcionalidades Avançadas](#módulo-5-funcionalidades-avançadas)
-
-            - [Conteúdo:](#conteúdo-5)
-
-            - [Resultados Esperados:](#resultados-esperados-5)
-
-        - [MÓDULO 6: Padrões de Aplicações Multiagente](#módulo-6-padrões-de-aplicações-multiagente)
-
-            - [Conteúdo:](#conteúdo-6)
-
-            - [Resultados Esperados:](#resultados-esperados-6)
-
-        - [MÓDULO 7: Segurança, Deployment e Boas Práticas](#módulo-7-segurança-deployment-e-boas-práticas)
-
-            - [Conteúdo:](#conteúdo-7)
-
-            - [Checklist de Deployment:](#checklist-de-deployment)
-
-            - [Resultados Esperados:](#resultados-esperados-7)
-
-    - [💡 EXEMPLOS PRÁTICOS {#exemplos-práticos}](#bulb-exemplos-práticos-exemplos-práticos)
-
-        - [Exemplo 1: Agente de Atendimento ao Cliente](#exemplo-1-agente-de-atendimento-ao-cliente)
-
-        - [Exemplo 2: Sistema Multiagente para Análise de Conteúdo](#exemplo-2-sistema-multiagente-para-análise-de-conteúdo)
-
-        - [Exemplo 3: Agente com Memória Persistente](#exemplo-3-agente-com-memória-persistente)
-
-        - [Exemplo 4: Agente com Output Estruturado](#exemplo-4-agente-com-output-estruturado)
-
-    - [📝 EXERCÍCIOS E ATIVIDADES {#exercícios}](#pencil-exercícios-e-atividades-exercícios)
-
-        - [EXERCÍCIO 1: Primeiro Agente (Módulo 3)](#exercício-1-primeiro-agente-módulo-3)
-
-        - [EXERCÍCIO 2: Implementando Ferramentas (Módulo 4)](#exercício-2-implementando-ferramentas-módulo-4)
-
-        - [EXERCÍCIO 3: Sistema Multiagente (Módulo 5-6)](#exercício-3-sistema-multiagente-módulo-5-6)
-
-        - [EXERCÍCIO 4: Projeto Final Integrado](#exercício-4-projeto-final-integrado)
-
-        - [ATIVIDADE PRÁTICA: Debugging e Otimização](#atividade-prática-debugging-e-otimização)
-
-    - [📚 GLOSSÁRIO TÉCNICO {#glossário}](#books-glossário-técnico-glossário)
-
-    - [❓ PERGUNTAS FREQUENTES (FAQ) {#faq}](#question-perguntas-frequentes-faq-faq)
-
-        - [Sobre o Google ADK](#sobre-o-google-adk)
-
-        - [Sobre Configuração e Ambiente](#sobre-configuração-e-ambiente)
-
-        - [Sobre Agentes e Funcionalidades](#sobre-agentes-e-funcionalidades)
-
-        - [Sobre Modelos e Performance](#sobre-modelos-e-performance)
-
-        - [Sobre Ferramentas e Integrações](#sobre-ferramentas-e-integrações)
-
-        - [Sobre Segurança e Deployment](#sobre-segurança-e-deployment)
-
-        - [Sobre Custos](#sobre-custos)
-
-        - [Sobre Aprendizado](#sobre-aprendizado)
-
-    - [🔗 RECURSOS ADICIONAIS {#recursos}](#link-recursos-adicionais-recursos)
-
-        - [Documentação Oficial](#documentação-oficial)
-
-        - [Repositórios e Código](#repositórios-e-código)
-
-        - [Ferramentas Complementares](#ferramentas-complementares)
-
-        - [Comunidades](#comunidades)
-
-        - [Leituras Recomendadas](#leituras-recomendadas)
-
-        - [Cursos Complementares](#cursos-complementares)
-
-        - [Newsletters e Blogs](#newsletters-e-blogs)
-
-    - [✅ CHECKLIST DE PROGRESSO](#white_check_mark-checklist-de-progresso)
-
-        - [Módulo 1: Introdução](#módulo-1-introdução)
-
-        - [Módulo 2: Configuração](#módulo-2-configuração)
-
-        - [Módulo 3: Primeiro Agente](#módulo-3-primeiro-agente)
-
-        - [Módulo 4: Modelos e Ferramentas](#módulo-4-modelos-e-ferramentas)
-
-        - [Módulo 5: Avançado](#módulo-5-avançado)
-
-        - [Módulo 6: Padrões](#módulo-6-padrões)
-
-        - [Módulo 7: Produção](#módulo-7-produção)
-
-        - [Projeto Final](#projeto-final)
-
-    - [📊 CRONOGRAMA SUGERIDO](#bar_chart-cronograma-sugerido)
-
-        - [Formato Intensivo (1 semana)](#formato-intensivo-1-semana)
-
-        - [Formato Regular (4 semanas)](#formato-regular-4-semanas)
-
-        - [Formato Autoguiado (8 semanas)](#formato-autoguiado-8-semanas)
-
-    - [🎯 PRÓXIMOS PASSOS](#dart-próximos-passos)
-
-    - [📞 SUPORTE E CONTATO](#telephone_receiver-suporte-e-contato)
-
-    - [📄 CERTIFICAÇÃO](#page_facing_up-certificação)
-
-    - [🎉 CONCLUSÃO](#tada-conclusão)
-
+[[_TOC_]]
   
 
 * * *
@@ -3016,13 +2865,24 @@ Após concluir este treinamento, você estará pronto para:
 
   
 
-## 📞 CONTATO
+## 📞 SUPORTE E CONTATO
 
+  
 
-email: marcus.cabrera@gmail.com
+**Para dúvidas técnicas:**
 
+  
+
+- Consulte primeiro o FAQ e documentação
+
+- Verifique GitHub Issues do repositório
+
+- Poste em fóruns da comunidade
+
+  
 
 **Para feedback sobre este material:**
+
   
 
 - Contribuições são bem-vindas
@@ -3031,7 +2891,42 @@ email: marcus.cabrera@gmail.com
 
 - Compartilhe casos de sucesso
 
+  
+
 * * *
+
+  
+
+## 📄 CERTIFICAÇÃO
+
+  
+
+Ao completar com sucesso:
+
+  
+
+- ✅ Todos os 7 módulos
+
+- ✅ Exercícios práticos
+
+- ✅ Projeto final aprovado
+
+  
+
+Você estará apto a:
+
+  
+
+- Reivindicar certificado de conclusão
+
+- Adicionar habilidades ao LinkedIn
+
+- Demonstrar expertise em AI Agent Development
+
+  
+
+* * *
+
   
 
 **Versão do Material:** 1.0
